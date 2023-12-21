@@ -1,0 +1,3091 @@
+Text: Title: Information on the 3rd grade yearbook shooting schedule and consent form for collection and use of personal information related to the yearbook shoot. Hello parents, we are taking photos as follows to create a graduation album that will contain the wonderful appearance of the 2021 year 3rd year students and beautiful memories of their school days. I want to do it. Our school considers securing student safety against COVID-19 infection as a top priority and will adhere to strict quarantine rules throughout the entire filming process. thank you 1. Student precautions when taking photos A. Always wear a mask except when taking pictures. Students move according to the filming time for each class and disinfect their hands frequently. Please maintain a distance from each other and do not talk while waiting for your photo time. 2. Date of shooting: Wednesday, June 16, 2021 3. Contents of shooting: Class group photo, individual upper body photo, individual outdoor photo, group photo 4. Shooting location go. Outdoor shooting: Park in front of the school B. Indoor shooting: 3rd grade small school classroom ※ At all shooting locations, homeroom teachers and subject teachers provide order and safety guidance and guide social distancing. 2021. 06. 08. Bitgaon Middle School Principal&#39;s seal omitted [Illegal donation reporting location Gyeonggi Provincial Office of Education: www. .goe.go.kr → Electronic civil service irregularity report and consultation Report of illegal donations - Telephone: Auditor of Gyeonggi Provincial Office of Education 031) 8200-855 - Report of irregularities by public officials: 031-2490-999 (anonymous report) Kookmin Shinmungo: www.epeople.or. kr → National Parents&#39; Association for Civil Complaints and True Education: www.hakbumo.or.kr + School guidance on illegal donations and educational corruption (02-393-8900, hakbumo@hanmail.net)
+Bounding Box Coordinates: [x: 21
+y: 10
+, x: 577
+y: 10
+, x: 577
+y: 687
+, x: 21
+y: 687
+]
+
+Text: title
+Bounding Box Coordinates: [x: 34
+y: 10
+, x: 67
+y: 10
+, x: 67
+y: 23
+, x: 34
+y: 23
+]
+
+Text: :
+Bounding Box Coordinates: [x: 75
+y: 10
+, x: 79
+y: 10
+, x: 79
+y: 22
+, x: 75
+y: 22
+]
+
+Text: 3
+Bounding Box Coordinates: [x: 112
+y: 10
+, x: 118
+y: 10
+, x: 118
+y: 23
+, x: 112
+y: 23
+]
+
+Text: grade
+Bounding Box Coordinates: [x: 118
+y: 10
+, x: 139
+y: 10
+, x: 139
+y: 23
+, x: 118
+y: 23
+]
+
+Text: graduate
+Bounding Box Coordinates: [x: 146
+y: 10
+, x: 167
+y: 10
+, x: 167
+y: 23
+, x: 146
+y: 23
+]
+
+Text: album
+Bounding Box Coordinates: [x: 175
+y: 10
+, x: 194
+y: 10
+, x: 194
+y: 23
+, x: 175
+y: 23
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 203
+y: 10
+, x: 222
+y: 10
+, x: 222
+y: 23
+, x: 203
+y: 23
+]
+
+Text: schedule
+Bounding Box Coordinates: [x: 231
+y: 10
+, x: 251
+y: 10
+, x: 251
+y: 23
+, x: 231
+y: 23
+]
+
+Text: guide
+Bounding Box Coordinates: [x: 259
+y: 10
+, x: 279
+y: 10
+, x: 279
+y: 23
+, x: 259
+y: 23
+]
+
+Text: and
+Bounding Box Coordinates: [x: 288
+y: 10
+, x: 298
+y: 10
+, x: 298
+y: 23
+, x: 288
+y: 23
+]
+
+Text: graduate
+Bounding Box Coordinates: [x: 304
+y: 10
+, x: 324
+y: 10
+, x: 324
+y: 23
+, x: 304
+y: 23
+]
+
+Text: album
+Bounding Box Coordinates: [x: 333
+y: 10
+, x: 352
+y: 10
+, x: 352
+y: 23
+, x: 333
+y: 23
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 361
+y: 10
+, x: 380
+y: 10
+, x: 380
+y: 23
+, x: 361
+y: 23
+]
+
+Text: related
+Bounding Box Coordinates: [x: 389
+y: 10
+, x: 409
+y: 10
+, x: 409
+y: 23
+, x: 389
+y: 23
+]
+
+Text: individual
+Bounding Box Coordinates: [x: 416
+y: 10
+, x: 438
+y: 10
+, x: 438
+y: 23
+, x: 416
+y: 23
+]
+
+Text: information
+Bounding Box Coordinates: [x: 439
+y: 10
+, x: 461
+y: 10
+, x: 461
+y: 23
+, x: 439
+y: 23
+]
+
+Text: collection
+Bounding Box Coordinates: [x: 467
+y: 10
+, x: 487
+y: 10
+, x: 487
+y: 23
+, x: 467
+y: 23
+]
+
+Text: Use
+Bounding Box Coordinates: [x: 496
+y: 10
+, x: 516
+y: 10
+, x: 516
+y: 23
+, x: 496
+y: 23
+]
+
+Text: agreement
+Bounding Box Coordinates: [x: 524
+y: 10
+, x: 555
+y: 10
+, x: 555
+y: 23
+, x: 524
+y: 23
+]
+
+Text: parents
+Bounding Box Coordinates: [x: 35
+y: 42
+, x: 73
+y: 42
+, x: 73
+y: 55
+, x: 35
+y: 55
+]
+
+Text: sir
+Bounding Box Coordinates: [x: 76
+y: 42
+, x: 86
+y: 42
+, x: 86
+y: 55
+, x: 76
+y: 55
+]
+
+Text: ,
+Bounding Box Coordinates: [x: 88
+y: 42
+, x: 90
+y: 42
+, x: 90
+y: 55
+, x: 88
+y: 55
+]
+
+Text: hello
+Bounding Box Coordinates: [x: 99
+y: 42
+, x: 179
+y: 42
+, x: 179
+y: 55
+, x: 99
+y: 55
+]
+
+Text: 2021
+Bounding Box Coordinates: [x: 22
+y: 70
+, x: 48
+y: 70
+, x: 48
+y: 81
+, x: 22
+y: 81
+]
+
+Text: school year
+Bounding Box Coordinates: [x: 51
+y: 70
+, x: 86
+y: 70
+, x: 86
+y: 81
+, x: 51
+y: 81
+]
+
+Text: 3
+Bounding Box Coordinates: [x: 94
+y: 70
+, x: 99
+y: 70
+, x: 99
+y: 81
+, x: 94
+y: 81
+]
+
+Text: grade
+Bounding Box Coordinates: [x: 101
+y: 70
+, x: 122
+y: 70
+, x: 122
+y: 81
+, x: 101
+y: 81
+]
+
+Text: students
+Bounding Box Coordinates: [x: 131
+y: 70
+, x: 165
+y: 70
+, x: 165
+y: 81
+, x: 131
+y: 81
+]
+
+Text: of
+Bounding Box Coordinates: [x: 167
+y: 70
+, x: 176
+y: 70
+, x: 176
+y: 81
+, x: 167
+y: 81
+]
+
+Text: wonderful
+Bounding Box Coordinates: [x: 186
+y: 70
+, x: 206
+y: 70
+, x: 206
+y: 81
+, x: 186
+y: 81
+]
+
+Text: figure
+Bounding Box Coordinates: [x: 216
+y: 70
+, x: 238
+y: 70
+, x: 238
+y: 81
+, x: 216
+y: 81
+]
+
+Text: class
+Bounding Box Coordinates: [x: 239
+y: 70
+, x: 250
+y: 70
+, x: 250
+y: 81
+, x: 239
+y: 81
+]
+
+Text: school
+Bounding Box Coordinates: [x: 258
+y: 70
+, x: 280
+y: 70
+, x: 280
+y: 81
+, x: 258
+y: 81
+]
+
+Text: days
+Bounding Box Coordinates: [x: 289
+y: 70
+, x: 310
+y: 70
+, x: 310
+y: 81
+, x: 289
+y: 81
+]
+
+Text: of
+Bounding Box Coordinates: [x: 313
+y: 70
+, x: 322
+y: 70
+, x: 322
+y: 81
+, x: 313
+y: 81
+]
+
+Text: beautiful
+Bounding Box Coordinates: [x: 331
+y: 70
+, x: 376
+y: 70
+, x: 376
+y: 81
+, x: 331
+y: 81
+]
+
+Text: memory
+Bounding Box Coordinates: [x: 385
+y: 70
+, x: 406
+y: 70
+, x: 406
+y: 81
+, x: 385
+y: 81
+]
+
+Text: second
+Bounding Box Coordinates: [x: 409
+y: 70
+, x: 419
+y: 70
+, x: 419
+y: 81
+, x: 409
+y: 81
+]
+
+Text: To contain
+Bounding Box Coordinates: [x: 428
+y: 70
+, x: 450
+y: 70
+, x: 450
+y: 81
+, x: 428
+y: 81
+]
+
+Text: graduate
+Bounding Box Coordinates: [x: 457
+y: 70
+, x: 479
+y: 70
+, x: 479
+y: 81
+, x: 457
+y: 81
+]
+
+Text: album
+Bounding Box Coordinates: [x: 489
+y: 70
+, x: 508
+y: 70
+, x: 508
+y: 81
+, x: 489
+y: 81
+]
+
+Text: second
+Bounding Box Coordinates: [x: 512
+y: 70
+, x: 522
+y: 70
+, x: 522
+y: 81
+, x: 512
+y: 81
+]
+
+Text: produce
+Bounding Box Coordinates: [x: 530
+y: 70
+, x: 553
+y: 70
+, x: 553
+y: 81
+, x: 530
+y: 81
+]
+
+Text: do
+Bounding Box Coordinates: [x: 553
+y: 70
+, x: 575
+y: 70
+, x: 575
+y: 81
+, x: 553
+y: 81
+]
+
+Text: for
+Bounding Box Coordinates: [x: 21
+y: 100
+, x: 43
+y: 100
+, x: 43
+y: 112
+, x: 21
+y: 112
+]
+
+Text: next
+Bounding Box Coordinates: [x: 52
+y: 100
+, x: 74
+y: 100
+, x: 74
+y: 112
+, x: 52
+y: 112
+]
+
+Text: class
+Bounding Box Coordinates: [x: 75
+y: 100
+, x: 85
+y: 100
+, x: 85
+y: 112
+, x: 75
+y: 112
+]
+
+Text: together
+Bounding Box Coordinates: [x: 94
+y: 100
+, x: 115
+y: 100
+, x: 115
+y: 112
+, x: 94
+y: 112
+]
+
+Text: picture
+Bounding Box Coordinates: [x: 124
+y: 100
+, x: 144
+y: 100
+, x: 144
+y: 112
+, x: 124
+y: 112
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 154
+y: 100
+, x: 174
+y: 100
+, x: 174
+y: 112
+, x: 154
+y: 112
+]
+
+Text: second
+Bounding Box Coordinates: [x: 177
+y: 100
+, x: 187
+y: 100
+, x: 187
+y: 112
+, x: 177
+y: 112
+]
+
+Text: want to
+Bounding Box Coordinates: [x: 195
+y: 100
+, x: 230
+y: 100
+, x: 230
+y: 112
+, x: 195
+y: 112
+]
+
+Text: do
+Bounding Box Coordinates: [x: 237
+y: 100
+, x: 271
+y: 100
+, x: 271
+y: 112
+, x: 237
+y: 112
+]
+
+Text: .
+Bounding Box Coordinates: [x: 273
+y: 100
+, x: 273
+y: 100
+, x: 273
+y: 112
+, x: 273
+y: 112
+]
+
+Text: Main school
+Bounding Box Coordinates: [x: 282
+y: 100
+, x: 305
+y: 100
+, x: 305
+y: 112
+, x: 282
+y: 112
+]
+
+Text: Is
+Bounding Box Coordinates: [x: 306
+y: 100
+, x: 316
+y: 100
+, x: 316
+y: 112
+, x: 306
+y: 112
+]
+
+Text: corona
+Bounding Box Coordinates: [x: 325
+y: 100
+, x: 358
+y: 100
+, x: 358
+y: 112
+, x: 325
+y: 112
+]
+
+Text: 19
+Bounding Box Coordinates: [x: 361
+y: 100
+, x: 372
+y: 100
+, x: 372
+y: 112
+, x: 361
+y: 112
+]
+
+Text: infection
+Bounding Box Coordinates: [x: 381
+y: 100
+, x: 401
+y: 100
+, x: 401
+y: 112
+, x: 381
+y: 112
+]
+
+Text: to
+Bounding Box Coordinates: [x: 404
+y: 100
+, x: 414
+y: 100
+, x: 414
+y: 112
+, x: 404
+y: 112
+]
+
+Text: About
+Bounding Box Coordinates: [x: 423
+y: 100
+, x: 445
+y: 100
+, x: 445
+y: 112
+, x: 423
+y: 112
+]
+
+Text: student
+Bounding Box Coordinates: [x: 453
+y: 100
+, x: 474
+y: 100
+, x: 474
+y: 112
+, x: 453
+y: 112
+]
+
+Text: safety
+Bounding Box Coordinates: [x: 483
+y: 100
+, x: 504
+y: 100
+, x: 504
+y: 112
+, x: 483
+y: 112
+]
+
+Text: secure
+Bounding Box Coordinates: [x: 512
+y: 100
+, x: 534
+y: 100
+, x: 534
+y: 112
+, x: 512
+y: 112
+]
+
+Text: cast
+Bounding Box Coordinates: [x: 536
+y: 100
+, x: 547
+y: 100
+, x: 547
+y: 112
+, x: 536
+y: 112
+]
+
+Text: Choi Woo
+Bounding Box Coordinates: [x: 554
+y: 100
+, x: 577
+y: 100
+, x: 577
+y: 112
+, x: 554
+y: 112
+]
+
+Text: shipping
+Bounding Box Coordinates: [x: 22
+y: 130
+, x: 43
+y: 130
+, x: 43
+y: 142
+, x: 22
+y: 142
+]
+
+Text: by
+Bounding Box Coordinates: [x: 47
+y: 130
+, x: 68
+y: 130
+, x: 68
+y: 142
+, x: 47
+y: 142
+]
+
+Text: Consideration
+Bounding Box Coordinates: [x: 76
+y: 130
+, x: 96
+y: 130
+, x: 96
+y: 142
+, x: 76
+y: 142
+]
+
+Text: And
+Bounding Box Coordinates: [x: 97
+y: 130
+, x: 120
+y: 130
+, x: 120
+y: 142
+, x: 97
+y: 142
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 129
+y: 130
+, x: 149
+y: 130
+, x: 149
+y: 142
+, x: 129
+y: 142
+]
+
+Text: jeon
+Bounding Box Coordinates: [x: 159
+y: 130
+, x: 169
+y: 130
+, x: 169
+y: 142
+, x: 159
+y: 142
+]
+
+Text: procedure
+Bounding Box Coordinates: [x: 177
+y: 130
+, x: 197
+y: 130
+, x: 197
+y: 142
+, x: 177
+y: 142
+]
+
+Text: to
+Bounding Box Coordinates: [x: 200
+y: 130
+, x: 209
+y: 130
+, x: 209
+y: 142
+, x: 200
+y: 142
+]
+
+Text: there is
+Bounding Box Coordinates: [x: 218
+y: 130
+, x: 239
+y: 130
+, x: 239
+y: 142
+, x: 218
+y: 142
+]
+
+Text: thorough
+Bounding Box Coordinates: [x: 249
+y: 130
+, x: 281
+y: 130
+, x: 281
+y: 142
+, x: 249
+y: 142
+]
+
+Text: quarantine
+Bounding Box Coordinates: [x: 290
+y: 130
+, x: 311
+y: 130
+, x: 311
+y: 142
+, x: 290
+y: 142
+]
+
+Text: rules
+Bounding Box Coordinates: [x: 319
+y: 130
+, x: 341
+y: 130
+, x: 341
+y: 142
+, x: 319
+y: 142
+]
+
+Text: second
+Bounding Box Coordinates: [x: 343
+y: 130
+, x: 354
+y: 130
+, x: 354
+y: 142
+, x: 343
+y: 142
+]
+
+Text: observance
+Bounding Box Coordinates: [x: 361
+y: 130
+, x: 383
+y: 130
+, x: 383
+y: 142
+, x: 361
+y: 142
+]
+
+Text: I&#39;ll do it
+Bounding Box Coordinates: [x: 385
+y: 130
+, x: 442
+y: 130
+, x: 442
+y: 142
+, x: 385
+y: 142
+]
+
+Text: .
+Bounding Box Coordinates: [x: 444
+y: 130
+, x: 445
+y: 130
+, x: 445
+y: 142
+, x: 444
+y: 142
+]
+
+Text: thanks
+Bounding Box Coordinates: [x: 454
+y: 130
+, x: 476
+y: 130
+, x: 476
+y: 142
+, x: 454
+y: 142
+]
+
+Text: do
+Bounding Box Coordinates: [x: 477
+y: 130
+, x: 511
+y: 130
+, x: 511
+y: 142
+, x: 477
+y: 142
+]
+
+Text: .
+Bounding Box Coordinates: [x: 512
+y: 130
+, x: 514
+y: 130
+, x: 514
+y: 142
+, x: 512
+y: 142
+]
+
+Text: 1.
+Bounding Box Coordinates: [x: 29
+y: 165
+, x: 37
+y: 165
+, x: 37
+y: 177
+, x: 29
+y: 177
+]
+
+Text: picture
+Bounding Box Coordinates: [x: 46
+y: 165
+, x: 67
+y: 165
+, x: 67
+y: 177
+, x: 46
+y: 177
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 76
+y: 165
+, x: 96
+y: 165
+, x: 96
+y: 177
+, x: 76
+y: 177
+]
+
+Text: city
+Bounding Box Coordinates: [x: 106
+y: 165
+, x: 115
+y: 165
+, x: 115
+y: 177
+, x: 106
+y: 177
+]
+
+Text: student
+Bounding Box Coordinates: [x: 124
+y: 165
+, x: 145
+y: 165
+, x: 145
+y: 177
+, x: 124
+y: 177
+]
+
+Text: Note
+Bounding Box Coordinates: [x: 154
+y: 165
+, x: 174
+y: 165
+, x: 174
+y: 177
+, x: 154
+y: 177
+]
+
+Text: matters
+Bounding Box Coordinates: [x: 177
+y: 165
+, x: 199
+y: 165
+, x: 199
+y: 177
+, x: 177
+y: 177
+]
+
+Text: go
+Bounding Box Coordinates: [x: 34
+y: 195
+, x: 45
+y: 195
+, x: 45
+y: 207
+, x: 34
+y: 207
+]
+
+Text: .
+Bounding Box Coordinates: [x: 47
+y: 195
+, x: 48
+y: 195
+, x: 48
+y: 207
+, x: 47
+y: 207
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 56
+y: 195
+, x: 77
+y: 195
+, x: 77
+y: 207
+, x: 56
+y: 207
+]
+
+Text: Moment
+Bounding Box Coordinates: [x: 86
+y: 195
+, x: 108
+y: 195
+, x: 108
+y: 207
+, x: 86
+y: 207
+]
+
+Text: second
+Bounding Box Coordinates: [x: 110
+y: 195
+, x: 120
+y: 195
+, x: 120
+y: 207
+, x: 110
+y: 207
+]
+
+Text: except
+Bounding Box Coordinates: [x: 127
+y: 195
+, x: 149
+y: 195
+, x: 149
+y: 207
+, x: 127
+y: 207
+]
+
+Text: do
+Bounding Box Coordinates: [x: 152
+y: 195
+, x: 173
+y: 195
+, x: 173
+y: 207
+, x: 152
+y: 207
+]
+
+Text: always
+Bounding Box Coordinates: [x: 182
+y: 195
+, x: 204
+y: 195
+, x: 204
+y: 207
+, x: 182
+y: 207
+]
+
+Text: mask
+Bounding Box Coordinates: [x: 212
+y: 195
+, x: 244
+y: 195
+, x: 244
+y: 207
+, x: 212
+y: 207
+]
+
+Text: cast
+Bounding Box Coordinates: [x: 246
+y: 195
+, x: 256
+y: 195
+, x: 256
+y: 207
+, x: 246
+y: 207
+]
+
+Text: Wearing
+Bounding Box Coordinates: [x: 264
+y: 195
+, x: 286
+y: 195
+, x: 286
+y: 207
+, x: 264
+y: 207
+]
+
+Text: box
+Bounding Box Coordinates: [x: 288
+y: 195
+, x: 298
+y: 195
+, x: 298
+y: 207
+, x: 288
+y: 207
+]
+
+Text: me
+Bounding Box Coordinates: [x: 35
+y: 226
+, x: 45
+y: 226
+, x: 45
+y: 238
+, x: 35
+y: 238
+]
+
+Text: .
+Bounding Box Coordinates: [x: 47
+y: 226
+, x: 47
+y: 226
+, x: 47
+y: 238
+, x: 47
+y: 238
+]
+
+Text: class star
+Bounding Box Coordinates: [x: 57
+y: 226
+, x: 77
+y: 226
+, x: 77
+y: 238
+, x: 57
+y: 238
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 86
+y: 226
+, x: 107
+y: 226
+, x: 107
+y: 238
+, x: 86
+y: 238
+]
+
+Text: hour
+Bounding Box Coordinates: [x: 116
+y: 226
+, x: 138
+y: 226
+, x: 138
+y: 238
+, x: 116
+y: 238
+]
+
+Text: to
+Bounding Box Coordinates: [x: 140
+y: 226
+, x: 150
+y: 226
+, x: 150
+y: 238
+, x: 140
+y: 238
+]
+
+Text: Guess what
+Bounding Box Coordinates: [x: 158
+y: 226
+, x: 178
+y: 226
+, x: 178
+y: 238
+, x: 158
+y: 238
+]
+
+Text: movement
+Bounding Box Coordinates: [x: 188
+y: 226
+, x: 210
+y: 226
+, x: 210
+y: 238
+, x: 188
+y: 238
+]
+
+Text: And
+Bounding Box Coordinates: [x: 210
+y: 226
+, x: 231
+y: 226
+, x: 231
+y: 238
+, x: 210
+y: 238
+]
+
+Text: frequently
+Bounding Box Coordinates: [x: 241
+y: 226
+, x: 275
+y: 226
+, x: 275
+y: 238
+, x: 241
+y: 238
+]
+
+Text: hand
+Bounding Box Coordinates: [x: 283
+y: 226
+, x: 293
+y: 226
+, x: 293
+y: 238
+, x: 283
+y: 238
+]
+
+Text: Disinfection
+Bounding Box Coordinates: [x: 301
+y: 226
+, x: 324
+y: 226
+, x: 324
+y: 238
+, x: 301
+y: 238
+]
+
+Text: second
+Bounding Box Coordinates: [x: 325
+y: 226
+, x: 335
+y: 226
+, x: 335
+y: 238
+, x: 325
+y: 238
+]
+
+Text: box
+Bounding Box Coordinates: [x: 342
+y: 226
+, x: 353
+y: 226
+, x: 353
+y: 238
+, x: 342
+y: 238
+]
+
+Text: all
+Bounding Box Coordinates: [x: 35
+y: 257
+, x: 45
+y: 257
+, x: 45
+y: 268
+, x: 35
+y: 268
+]
+
+Text: .
+Bounding Box Coordinates: [x: 47
+y: 257
+, x: 48
+y: 257
+, x: 48
+y: 268
+, x: 47
+y: 268
+]
+
+Text: me
+Bounding Box Coordinates: [x: 57
+y: 257
+, x: 77
+y: 257
+, x: 77
+y: 268
+, x: 57
+y: 268
+]
+
+Text: of
+Bounding Box Coordinates: [x: 80
+y: 257
+, x: 89
+y: 257
+, x: 89
+y: 268
+, x: 80
+y: 268
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 98
+y: 257
+, x: 119
+y: 257
+, x: 119
+y: 268
+, x: 98
+y: 268
+]
+
+Text: hour
+Bounding Box Coordinates: [x: 128
+y: 257
+, x: 150
+y: 257
+, x: 150
+y: 268
+, x: 128
+y: 268
+]
+
+Text: second
+Bounding Box Coordinates: [x: 152
+y: 257
+, x: 162
+y: 257
+, x: 162
+y: 268
+, x: 152
+y: 268
+]
+
+Text: waiting
+Bounding Box Coordinates: [x: 169
+y: 257
+, x: 215
+y: 257
+, x: 215
+y: 268
+, x: 169
+y: 268
+]
+
+Text: during
+Bounding Box Coordinates: [x: 223
+y: 257
+, x: 245
+y: 257
+, x: 245
+y: 268
+, x: 223
+y: 268
+]
+
+Text: each other
+Bounding Box Coordinates: [x: 253
+y: 257
+, x: 275
+y: 257
+, x: 275
+y: 268
+, x: 253
+y: 268
+]
+
+Text: interval
+Bounding Box Coordinates: [x: 283
+y: 257
+, x: 304
+y: 257
+, x: 304
+y: 268
+, x: 283
+y: 268
+]
+
+Text: second
+Bounding Box Coordinates: [x: 306
+y: 257
+, x: 316
+y: 257
+, x: 316
+y: 268
+, x: 306
+y: 268
+]
+
+Text: maintain
+Bounding Box Coordinates: [x: 324
+y: 257
+, x: 345
+y: 257
+, x: 345
+y: 268
+, x: 324
+y: 268
+]
+
+Text: And
+Bounding Box Coordinates: [x: 347
+y: 257
+, x: 369
+y: 257
+, x: 369
+y: 268
+, x: 347
+y: 268
+]
+
+Text: conversation
+Bounding Box Coordinates: [x: 378
+y: 257
+, x: 400
+y: 257
+, x: 400
+y: 268
+, x: 378
+y: 268
+]
+
+Text: cast
+Bounding Box Coordinates: [x: 401
+y: 257
+, x: 412
+y: 257
+, x: 412
+y: 268
+, x: 401
+y: 268
+]
+
+Text: forbidden
+Bounding Box Coordinates: [x: 419
+y: 257
+, x: 441
+y: 257
+, x: 441
+y: 268
+, x: 419
+y: 268
+]
+
+Text: 2.
+Bounding Box Coordinates: [x: 29
+y: 287
+, x: 37
+y: 287
+, x: 37
+y: 298
+, x: 29
+y: 298
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 45
+y: 287
+, x: 66
+y: 287
+, x: 66
+y: 298
+, x: 45
+y: 298
+]
+
+Text: Date
+Bounding Box Coordinates: [x: 76
+y: 287
+, x: 98
+y: 287
+, x: 98
+y: 298
+, x: 76
+y: 298
+]
+
+Text: :
+Bounding Box Coordinates: [x: 106
+y: 287
+, x: 109
+y: 287
+, x: 109
+y: 298
+, x: 106
+y: 298
+]
+
+Text: 2021
+Bounding Box Coordinates: [x: 116
+y: 287
+, x: 142
+y: 287
+, x: 142
+y: 298
+, x: 116
+y: 298
+]
+
+Text: year
+Bounding Box Coordinates: [x: 146
+y: 287
+, x: 154
+y: 287
+, x: 154
+y: 298
+, x: 146
+y: 298
+]
+
+Text: 6
+Bounding Box Coordinates: [x: 163
+y: 287
+, x: 169
+y: 287
+, x: 169
+y: 298
+, x: 163
+y: 298
+]
+
+Text: month
+Bounding Box Coordinates: [x: 172
+y: 287
+, x: 181
+y: 287
+, x: 181
+y: 298
+, x: 172
+y: 298
+]
+
+Text: 16
+Bounding Box Coordinates: [x: 190
+y: 287
+, x: 202
+y: 287
+, x: 202
+y: 298
+, x: 190
+y: 298
+]
+
+Text: Day
+Bounding Box Coordinates: [x: 204
+y: 287
+, x: 213
+y: 287
+, x: 213
+y: 298
+, x: 204
+y: 298
+]
+
+Text: wednesday
+Bounding Box Coordinates: [x: 221
+y: 287
+, x: 255
+y: 287
+, x: 255
+y: 298
+, x: 221
+y: 298
+]
+
+Text: 3.
+Bounding Box Coordinates: [x: 28
+y: 317
+, x: 38
+y: 317
+, x: 38
+y: 328
+, x: 28
+y: 328
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 46
+y: 317
+, x: 66
+y: 317
+, x: 66
+y: 328
+, x: 46
+y: 328
+]
+
+Text: detail
+Bounding Box Coordinates: [x: 75
+y: 317
+, x: 99
+y: 317
+, x: 99
+y: 328
+, x: 75
+y: 328
+]
+
+Text: :
+Bounding Box Coordinates: [x: 105
+y: 317
+, x: 109
+y: 317
+, x: 109
+y: 328
+, x: 105
+y: 328
+]
+
+Text: class
+Bounding Box Coordinates: [x: 115
+y: 317
+, x: 138
+y: 317
+, x: 138
+y: 328
+, x: 115
+y: 328
+]
+
+Text: organization
+Bounding Box Coordinates: [x: 146
+y: 317
+, x: 167
+y: 317
+, x: 167
+y: 328
+, x: 146
+y: 328
+]
+
+Text: picture
+Bounding Box Coordinates: [x: 175
+y: 317
+, x: 196
+y: 317
+, x: 196
+y: 328
+, x: 175
+y: 328
+]
+
+Text: ,
+Bounding Box Coordinates: [x: 199
+y: 317
+, x: 201
+y: 317
+, x: 201
+y: 328
+, x: 199
+y: 328
+]
+
+Text: individual
+Bounding Box Coordinates: [x: 208
+y: 317
+, x: 229
+y: 317
+, x: 229
+y: 328
+, x: 208
+y: 328
+]
+
+Text: bust
+Bounding Box Coordinates: [x: 238
+y: 317
+, x: 271
+y: 317
+, x: 271
+y: 328
+, x: 238
+y: 328
+]
+
+Text: picture
+Bounding Box Coordinates: [x: 281
+y: 317
+, x: 301
+y: 317
+, x: 301
+y: 328
+, x: 281
+y: 328
+]
+
+Text: ,
+Bounding Box Coordinates: [x: 305
+y: 317
+, x: 306
+y: 317
+, x: 306
+y: 328
+, x: 305
+y: 328
+]
+
+Text: individual
+Bounding Box Coordinates: [x: 313
+y: 317
+, x: 336
+y: 317
+, x: 336
+y: 328
+, x: 313
+y: 328
+]
+
+Text: outdoor
+Bounding Box Coordinates: [x: 343
+y: 317
+, x: 365
+y: 317
+, x: 365
+y: 328
+, x: 343
+y: 328
+]
+
+Text: picture
+Bounding Box Coordinates: [x: 374
+y: 317
+, x: 394
+y: 317
+, x: 394
+y: 328
+, x: 374
+y: 328
+]
+
+Text: ,
+Bounding Box Coordinates: [x: 397
+y: 317
+, x: 398
+y: 317
+, x: 398
+y: 328
+, x: 397
+y: 328
+]
+
+Text: Group stage
+Bounding Box Coordinates: [x: 408
+y: 317
+, x: 428
+y: 317
+, x: 428
+y: 328
+, x: 408
+y: 328
+]
+
+Text: picture
+Bounding Box Coordinates: [x: 437
+y: 317
+, x: 458
+y: 317
+, x: 458
+y: 328
+, x: 437
+y: 328
+]
+
+Text: 4.
+Bounding Box Coordinates: [x: 28
+y: 347
+, x: 37
+y: 347
+, x: 37
+y: 358
+, x: 28
+y: 358
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 45
+y: 347
+, x: 67
+y: 347
+, x: 67
+y: 358
+, x: 45
+y: 358
+]
+
+Text: location
+Bounding Box Coordinates: [x: 74
+y: 347
+, x: 98
+y: 347
+, x: 98
+y: 358
+, x: 74
+y: 358
+]
+
+Text: go
+Bounding Box Coordinates: [x: 34
+y: 377
+, x: 45
+y: 377
+, x: 45
+y: 389
+, x: 34
+y: 389
+]
+
+Text: .
+Bounding Box Coordinates: [x: 46
+y: 377
+, x: 48
+y: 377
+, x: 48
+y: 389
+, x: 46
+y: 389
+]
+
+Text: outdoor
+Bounding Box Coordinates: [x: 56
+y: 377
+, x: 78
+y: 377
+, x: 78
+y: 389
+, x: 56
+y: 389
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 86
+y: 377
+, x: 107
+y: 377
+, x: 107
+y: 389
+, x: 86
+y: 389
+]
+
+Text: :
+Bounding Box Coordinates: [x: 116
+y: 377
+, x: 118
+y: 377
+, x: 118
+y: 389
+, x: 116
+y: 389
+]
+
+Text: school
+Bounding Box Coordinates: [x: 126
+y: 377
+, x: 148
+y: 377
+, x: 148
+y: 389
+, x: 126
+y: 389
+]
+
+Text: front
+Bounding Box Coordinates: [x: 156
+y: 377
+, x: 167
+y: 377
+, x: 167
+y: 389
+, x: 156
+y: 389
+]
+
+Text: park
+Bounding Box Coordinates: [x: 175
+y: 377
+, x: 196
+y: 377
+, x: 196
+y: 389
+, x: 175
+y: 389
+]
+
+Text: me
+Bounding Box Coordinates: [x: 34
+y: 408
+, x: 44
+y: 408
+, x: 44
+y: 420
+, x: 34
+y: 420
+]
+
+Text: .
+Bounding Box Coordinates: [x: 47
+y: 408
+, x: 48
+y: 408
+, x: 48
+y: 420
+, x: 47
+y: 420
+]
+
+Text: inside
+Bounding Box Coordinates: [x: 56
+y: 408
+, x: 77
+y: 408
+, x: 77
+y: 420
+, x: 56
+y: 420
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 86
+y: 408
+, x: 107
+y: 408
+, x: 107
+y: 420
+, x: 86
+y: 420
+]
+
+Text: :
+Bounding Box Coordinates: [x: 116
+y: 408
+, x: 118
+y: 408
+, x: 118
+y: 420
+, x: 116
+y: 420
+]
+
+Text: 3
+Bounding Box Coordinates: [x: 127
+y: 408
+, x: 133
+y: 408
+, x: 133
+y: 420
+, x: 127
+y: 420
+]
+
+Text: grade
+Bounding Box Coordinates: [x: 132
+y: 408
+, x: 155
+y: 408
+, x: 155
+y: 420
+, x: 132
+y: 420
+]
+
+Text: small
+Bounding Box Coordinates: [x: 164
+y: 408
+, x: 185
+y: 408
+, x: 185
+y: 420
+, x: 164
+y: 420
+]
+
+Text: school
+Bounding Box Coordinates: [x: 188
+y: 408
+, x: 209
+y: 408
+, x: 209
+y: 420
+, x: 188
+y: 420
+]
+
+Text: classroom
+Bounding Box Coordinates: [x: 217
+y: 408
+, x: 239
+y: 408
+, x: 239
+y: 420
+, x: 217
+y: 420
+]
+
+Text: ※
+Bounding Box Coordinates: [x: 35
+y: 440
+, x: 43
+y: 440
+, x: 43
+y: 449
+, x: 35
+y: 449
+]
+
+Text: every
+Bounding Box Coordinates: [x: 50
+y: 440
+, x: 67
+y: 440
+, x: 67
+y: 449
+, x: 50
+y: 449
+]
+
+Text: filming
+Bounding Box Coordinates: [x: 75
+y: 440
+, x: 92
+y: 440
+, x: 92
+y: 449
+, x: 75
+y: 449
+]
+
+Text: location
+Bounding Box Coordinates: [x: 99
+y: 440
+, x: 117
+y: 440
+, x: 117
+y: 449
+, x: 99
+y: 449
+]
+
+Text: In
+Bounding Box Coordinates: [x: 119
+y: 440
+, x: 137
+y: 440
+, x: 137
+y: 449
+, x: 119
+y: 449
+]
+
+Text: homeroom teacher
+Bounding Box Coordinates: [x: 144
+y: 440
+, x: 161
+y: 440
+, x: 161
+y: 449
+, x: 144
+y: 449
+]
+
+Text: teacher
+Bounding Box Coordinates: [x: 170
+y: 440
+, x: 187
+y: 440
+, x: 187
+y: 449
+, x: 170
+y: 449
+]
+
+Text: and
+Bounding Box Coordinates: [x: 194
+y: 440
+, x: 202
+y: 440
+, x: 202
+y: 449
+, x: 194
+y: 449
+]
+
+Text: subject
+Bounding Box Coordinates: [x: 209
+y: 440
+, x: 228
+y: 440
+, x: 228
+y: 449
+, x: 209
+y: 449
+]
+
+Text: teacher
+Bounding Box Coordinates: [x: 234
+y: 440
+, x: 252
+y: 440
+, x: 252
+y: 449
+, x: 234
+y: 449
+]
+
+Text: go
+Bounding Box Coordinates: [x: 253
+y: 440
+, x: 262
+y: 440
+, x: 262
+y: 449
+, x: 253
+y: 449
+]
+
+Text: law
+Bounding Box Coordinates: [x: 268
+y: 440
+, x: 285
+y: 440
+, x: 285
+y: 449
+, x: 268
+y: 449
+]
+
+Text: and
+Bounding Box Coordinates: [x: 294
+y: 440
+, x: 300
+y: 440
+, x: 300
+y: 449
+, x: 294
+y: 449
+]
+
+Text: safety
+Bounding Box Coordinates: [x: 308
+y: 440
+, x: 326
+y: 440
+, x: 326
+y: 449
+, x: 308
+y: 449
+]
+
+Text: map
+Bounding Box Coordinates: [x: 333
+y: 440
+, x: 351
+y: 440
+, x: 351
+y: 449
+, x: 333
+y: 449
+]
+
+Text: cast
+Bounding Box Coordinates: [x: 352
+y: 440
+, x: 361
+y: 440
+, x: 361
+y: 449
+, x: 352
+y: 449
+]
+
+Text: And
+Bounding Box Coordinates: [x: 367
+y: 440
+, x: 385
+y: 440
+, x: 385
+y: 449
+, x: 367
+y: 449
+]
+
+Text: distance
+Bounding Box Coordinates: [x: 392
+y: 440
+, x: 409
+y: 440
+, x: 409
+y: 449
+, x: 392
+y: 449
+]
+
+Text: put
+Bounding Box Coordinates: [x: 417
+y: 440
+, x: 434
+y: 440
+, x: 434
+y: 449
+, x: 417
+y: 449
+]
+
+Text: cast
+Bounding Box Coordinates: [x: 436
+y: 440
+, x: 445
+y: 440
+, x: 445
+y: 449
+, x: 436
+y: 449
+]
+
+Text: guide
+Bounding Box Coordinates: [x: 451
+y: 440
+, x: 469
+y: 440
+, x: 469
+y: 449
+, x: 451
+y: 449
+]
+
+Text: box
+Bounding Box Coordinates: [x: 471
+y: 440
+, x: 480
+y: 440
+, x: 480
+y: 449
+, x: 471
+y: 449
+]
+
+Text: 2021.
+Bounding Box Coordinates: [x: 255
+y: 492
+, x: 289
+y: 492
+, x: 289
+y: 503
+, x: 255
+y: 503
+]
+
+Text: 06.
+Bounding Box Coordinates: [x: 296
+y: 492
+, x: 316
+y: 492
+, x: 316
+y: 503
+, x: 296
+y: 503
+]
+
+Text: 08
+Bounding Box Coordinates: [x: 323
+y: 492
+, x: 340
+y: 492
+, x: 340
+y: 503
+, x: 323
+y: 503
+]
+
+Text: .
+Bounding Box Coordinates: [x: 341
+y: 492
+, x: 344
+y: 492
+, x: 344
+y: 503
+, x: 341
+y: 503
+]
+
+Text: light
+Bounding Box Coordinates: [x: 164
+y: 516
+, x: 188
+y: 516
+, x: 188
+y: 544
+, x: 164
+y: 544
+]
+
+Text: Gaon
+Bounding Box Coordinates: [x: 196
+y: 515
+, x: 253
+y: 515
+, x: 253
+y: 543
+, x: 196
+y: 543
+]
+
+Text: middle School
+Bounding Box Coordinates: [x: 261
+y: 515
+, x: 353
+y: 515
+, x: 353
+y: 543
+, x: 261
+y: 543
+]
+
+Text: page
+Bounding Box Coordinates: [x: 358
+y: 515
+, x: 386
+y: 515
+, x: 386
+y: 543
+, x: 358
+y: 543
+]
+
+Text: journeyman
+Bounding Box Coordinates: [x: 403
+y: 514
+, x: 424
+y: 514
+, x: 424
+y: 523
+, x: 403
+y: 523
+]
+
+Text: skip
+Bounding Box Coordinates: [x: 403
+y: 528
+, x: 425
+y: 528
+, x: 425
+y: 538
+, x: 403
+y: 538
+]
+
+Text: [
+Bounding Box Coordinates: [x: 246
+y: 559
+, x: 249
+y: 559
+, x: 249
+y: 570
+, x: 246
+y: 570
+]
+
+Text: illegal
+Bounding Box Coordinates: [x: 255
+y: 559
+, x: 273
+y: 559
+, x: 273
+y: 570
+, x: 255
+y: 570
+]
+
+Text: A little bit of food
+Bounding Box Coordinates: [x: 282
+y: 559
+, x: 311
+y: 559
+, x: 311
+y: 570
+, x: 282
+y: 570
+]
+
+Text: Report to
+Bounding Box Coordinates: [x: 319
+y: 559
+, x: 347
+y: 559
+, x: 347
+y: 570
+, x: 319
+y: 570
+]
+
+Text: gyeonggi-do
+Bounding Box Coordinates: [x: 155
+y: 582
+, x: 179
+y: 582
+, x: 179
+y: 591
+, x: 155
+y: 591
+]
+
+Text: Office of Education
+Bounding Box Coordinates: [x: 178
+y: 582
+, x: 199
+y: 582
+, x: 199
+y: 591
+, x: 178
+y: 591
+]
+
+Text: :
+Bounding Box Coordinates: [x: 208
+y: 582
+, x: 210
+y: 582
+, x: 210
+y: 591
+, x: 208
+y: 591
+]
+
+Text: www.goe.go.kr
+Bounding Box Coordinates: [x: 217
+y: 582
+, x: 291
+y: 582
+, x: 291
+y: 591
+, x: 217
+y: 591
+]
+
+Text: →
+Bounding Box Coordinates: [x: 296
+y: 582
+, x: 303
+y: 582
+, x: 303
+y: 591
+, x: 296
+y: 591
+]
+
+Text: former
+Bounding Box Coordinates: [x: 306
+y: 582
+, x: 320
+y: 582
+, x: 320
+y: 591
+, x: 306
+y: 591
+]
+
+Text: complaints
+Bounding Box Coordinates: [x: 320
+y: 582
+, x: 336
+y: 582
+, x: 336
+y: 591
+, x: 320
+y: 591
+]
+
+Text: absurdity
+Bounding Box Coordinates: [x: 350
+y: 582
+, x: 372
+y: 582
+, x: 372
+y: 591
+, x: 350
+y: 591
+]
+
+Text: Declaration
+Bounding Box Coordinates: [x: 372
+y: 582
+, x: 387
+y: 582
+, x: 387
+y: 591
+, x: 372
+y: 591
+]
+
+Text: and
+Bounding Box Coordinates: [x: 392
+y: 582
+, x: 398
+y: 582
+, x: 398
+y: 591
+, x: 392
+y: 591
+]
+
+Text: consulting
+Bounding Box Coordinates: [x: 402
+y: 582
+, x: 416
+y: 582
+, x: 416
+y: 591
+, x: 402
+y: 591
+]
+
+Text: illegal
+Bounding Box Coordinates: [x: 230
+y: 595
+, x: 241
+y: 595
+, x: 241
+y: 603
+, x: 230
+y: 603
+]
+
+Text: A little bit of food
+Bounding Box Coordinates: [x: 247
+y: 595
+, x: 268
+y: 595
+, x: 268
+y: 603
+, x: 247
+y: 603
+]
+
+Text: Declaration
+Bounding Box Coordinates: [x: 274
+y: 595
+, x: 289
+y: 595
+, x: 289
+y: 603
+, x: 274
+y: 603
+]
+
+Text: -
+Bounding Box Coordinates: [x: 155
+y: 609
+, x: 161
+y: 609
+, x: 161
+y: 617
+, x: 155
+y: 617
+]
+
+Text: phone call
+Bounding Box Coordinates: [x: 166
+y: 609
+, x: 184
+y: 609
+, x: 184
+y: 617
+, x: 166
+y: 617
+]
+
+Text: :
+Bounding Box Coordinates: [x: 193
+y: 609
+, x: 196
+y: 609
+, x: 196
+y: 617
+, x: 193
+y: 617
+]
+
+Text: gyeonggi-do
+Bounding Box Coordinates: [x: 200
+y: 609
+, x: 223
+y: 609
+, x: 223
+y: 617
+, x: 200
+y: 617
+]
+
+Text: Office of Education
+Bounding Box Coordinates: [x: 224
+y: 609
+, x: 244
+y: 609
+, x: 244
+y: 617
+, x: 224
+y: 617
+]
+
+Text: comptroller
+Bounding Box Coordinates: [x: 251
+y: 609
+, x: 274
+y: 609
+, x: 274
+y: 617
+, x: 251
+y: 617
+]
+
+Text: 031
+Bounding Box Coordinates: [x: 282
+y: 609
+, x: 298
+y: 609
+, x: 298
+y: 617
+, x: 282
+y: 617
+]
+
+Text: )
+Bounding Box Coordinates: [x: 300
+y: 609
+, x: 302
+y: 609
+, x: 302
+y: 617
+, x: 300
+y: 617
+]
+
+Text: 8200-855
+Bounding Box Coordinates: [x: 309
+y: 609
+, x: 360
+y: 609
+, x: 360
+y: 617
+, x: 309
+y: 617
+]
+
+Text: -
+Bounding Box Coordinates: [x: 155
+y: 623
+, x: 161
+y: 623
+, x: 161
+y: 632
+, x: 155
+y: 632
+]
+
+Text: public official
+Bounding Box Coordinates: [x: 166
+y: 623
+, x: 186
+y: 623
+, x: 186
+y: 632
+, x: 166
+y: 632
+]
+
+Text: absurdity
+Bounding Box Coordinates: [x: 193
+y: 623
+, x: 214
+y: 623
+, x: 214
+y: 632
+, x: 193
+y: 632
+]
+
+Text: Declaration
+Bounding Box Coordinates: [x: 217
+y: 623
+, x: 231
+y: 623
+, x: 231
+y: 632
+, x: 217
+y: 632
+]
+
+Text: :
+Bounding Box Coordinates: [x: 237
+y: 623
+, x: 239
+y: 623
+, x: 239
+y: 632
+, x: 237
+y: 632
+]
+
+Text: 031-2490-999
+Bounding Box Coordinates: [x: 245
+y: 623
+, x: 320
+y: 623
+, x: 320
+y: 632
+, x: 245
+y: 632
+]
+
+Text: (
+Bounding Box Coordinates: [x: 322
+y: 623
+, x: 325
+y: 623
+, x: 325
+y: 632
+, x: 322
+y: 632
+]
+
+Text: anonymous
+Bounding Box Coordinates: [x: 326
+y: 623
+, x: 339
+y: 623
+, x: 339
+y: 632
+, x: 326
+y: 632
+]
+
+Text: Declaration
+Bounding Box Coordinates: [x: 342
+y: 623
+, x: 356
+y: 623
+, x: 356
+y: 632
+, x: 342
+y: 632
+]
+
+Text: )
+Bounding Box Coordinates: [x: 357
+y: 623
+, x: 360
+y: 623
+, x: 360
+y: 632
+, x: 357
+y: 632
+]
+
+Text: nation
+Bounding Box Coordinates: [x: 155
+y: 639
+, x: 169
+y: 639
+, x: 169
+y: 647
+, x: 155
+y: 647
+]
+
+Text: Sinmungo
+Bounding Box Coordinates: [x: 171
+y: 639
+, x: 193
+y: 639
+, x: 193
+y: 647
+, x: 171
+y: 647
+]
+
+Text: :
+Bounding Box Coordinates: [x: 197
+y: 639
+, x: 199
+y: 639
+, x: 199
+y: 647
+, x: 197
+y: 647
+]
+
+Text: www.epeople.or.kr
+Bounding Box Coordinates: [x: 205
+y: 639
+, x: 297
+y: 639
+, x: 297
+y: 647
+, x: 205
+y: 647
+]
+
+Text: →
+Bounding Box Coordinates: [x: 300
+y: 639
+, x: 309
+y: 639
+, x: 309
+y: 647
+, x: 300
+y: 647
+]
+
+Text: complaints
+Bounding Box Coordinates: [x: 314
+y: 639
+, x: 328
+y: 639
+, x: 328
+y: 647
+, x: 314
+y: 647
+]
+
+Text: true education
+Bounding Box Coordinates: [x: 156
+y: 660
+, x: 178
+y: 660
+, x: 178
+y: 668
+, x: 156
+y: 668
+]
+
+Text: second
+Bounding Box Coordinates: [x: 177
+y: 660
+, x: 184
+y: 660
+, x: 184
+y: 668
+, x: 177
+y: 668
+]
+
+Text: for
+Bounding Box Coordinates: [x: 190
+y: 660
+, x: 203
+y: 660
+, x: 203
+y: 668
+, x: 190
+y: 668
+]
+
+Text: Nationwide
+Bounding Box Coordinates: [x: 208
+y: 660
+, x: 222
+y: 660
+, x: 222
+y: 668
+, x: 208
+y: 668
+]
+
+Text: parents&#39; association
+Bounding Box Coordinates: [x: 227
+y: 660
+, x: 255
+y: 660
+, x: 255
+y: 668
+, x: 227
+y: 668
+]
+
+Text: :
+Bounding Box Coordinates: [x: 261
+y: 660
+, x: 263
+y: 660
+, x: 263
+y: 668
+, x: 261
+y: 668
+]
+
+Text: www.hakbumo.or.kr
+Bounding Box Coordinates: [x: 268
+y: 660
+, x: 366
+y: 660
+, x: 366
+y: 668
+, x: 268
+y: 668
+]
+
+Text: +
+Bounding Box Coordinates: [x: 370
+y: 660
+, x: 377
+y: 660
+, x: 377
+y: 668
+, x: 370
+y: 668
+]
+
+Text: school
+Bounding Box Coordinates: [x: 383
+y: 660
+, x: 398
+y: 660
+, x: 398
+y: 668
+, x: 383
+y: 668
+]
+
+Text: guidance
+Bounding Box Coordinates: [x: 402
+y: 660
+, x: 430
+y: 660
+, x: 430
+y: 668
+, x: 402
+y: 668
+]
+
+Text: illegal
+Bounding Box Coordinates: [x: 168
+y: 679
+, x: 181
+y: 679
+, x: 181
+y: 687
+, x: 168
+y: 687
+]
+
+Text: A little bit of food
+Bounding Box Coordinates: [x: 185
+y: 679
+, x: 207
+y: 679
+, x: 207
+y: 687
+, x: 185
+y: 687
+]
+
+Text: and
+Bounding Box Coordinates: [x: 213
+y: 679
+, x: 218
+y: 679
+, x: 218
+y: 687
+, x: 213
+y: 687
+]
+
+Text: education
+Bounding Box Coordinates: [x: 224
+y: 679
+, x: 239
+y: 679
+, x: 239
+y: 687
+, x: 224
+y: 687
+]
+
+Text: corruption
+Bounding Box Coordinates: [x: 243
+y: 679
+, x: 256
+y: 679
+, x: 256
+y: 687
+, x: 243
+y: 687
+]
+
+Text: (
+Bounding Box Coordinates: [x: 258
+y: 679
+, x: 260
+y: 679
+, x: 260
+y: 687
+, x: 258
+y: 687
+]
+
+Text: 02-393-8900
+Bounding Box Coordinates: [x: 261
+y: 679
+, x: 328
+y: 679
+, x: 328
+y: 687
+, x: 261
+y: 687
+]
+
+Text: ,
+Bounding Box Coordinates: [x: 329
+y: 679
+, x: 331
+y: 679
+, x: 331
+y: 687
+, x: 329
+y: 687
+]
+
+Text: hakbumo@hanmail.net
+Bounding Box Coordinates: [x: 338
+y: 679
+, x: 449
+y: 679
+, x: 449
+y: 687
+, x: 338
+y: 687
+]
+
+Text: )
+Bounding Box Coordinates: [x: 449
+y: 679
+, x: 451
+y: 679
+, x: 451
+y: 687
+, x: 449
+y: 687
+]
+

@@ -6,9 +6,52 @@ import os
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:\silver\\translate-ocr-408705-3a41838f941a.json'
 
+# def detect_document(path) :
+#     """Detects document features in an image."""
+#     from google.cloud import vision
+#
+#     client = vision.ImageAnnotatorClient()
+#
+#     # [START vision_python_migration_document_text_detection]
+#     with open(path, "rb") as image_file:
+#         content = image_file.read()
+#
+#     image = vision.Image(content=content)
+#
+#     response = client.document_text_detection(image=image)
+#
+#     for page in response.full_text_annotation.pages:
+#         for block in page.blocks:
+#             print(f"\nBlock confidence: {block.confidence}\n")
+#
+#             for paragraph in block.paragraphs:
+#                 print("Paragraph confidence: {}".format(paragraph.confidence))
+#
+#                 for word in paragraph.words:
+#                     word_text = "".join([symbol.text for symbol in word.symbols])
+#                     print(
+#                         "Word text: {} (confidence: {})".format(
+#                             word_text, word.confidence
+#                         )
+#                     )
+#                     # word : word
+#                     # symbol : letter
+#                     for symbol in word.symbols:
+#                         print(
+#                             "\tSymbol: {} (confidence: {})".format(
+#                                 symbol.text, symbol.confidence
+#                             )
+#                         )
+#
+#     if response.error.message:
+#         raise Exception(
+#             "{}\nFor more info on error messages, check: "
+#             "https://cloud.google.com/apis/design/errors".format(response.error.message)
+#         )
+#     # [END vision_python_migration_document_text_detection]
 def detect_text() :
     client = vision.ImageAnnotatorClient()
-    path = 'C:\silver\example3.png'
+    path = 'C:\silver\example9.png'
 
     with io.open(path, 'rb') as image_file:
         content = image_file.read()
@@ -27,19 +70,22 @@ def detect_text() :
 
     #이어서 텍스트로 쭉 추출하려면?
     # resource = ""
-    resource = texts[0].description.replace('\n', '..')
+    # resource = texts[0].description
+    resource = texts[0].description.replace('\n', ' ')
     # num = 1
+    # print(texts[1].bounding_poly.vertices[0].x, texts[1].bounding_poly[0].vertices[0])
 
-    # for text in texts:
-    #     content = text.description
-    #     # print(num, end =":")
-    #     # num+=1
-    #     # print(content)
-    #     content = content.replace('\n',' ')
-    #     # print('{}'.format(content))
-    #     # print(content, end="")
-    #     # resource+=content
 
+    for text in texts:
+        content = text.description
+        # print(text.bounding_poly.vertices[0])
+        # print(num, end =":")
+        # num+=1
+        # print(content)
+        # content = content.replace('\n',' ')
+        # print('{}'.format(content))
+        # print(content, end="")
+        # resource+=content3
     return resource
 
 # def translate_text(target: str, text: str) -> dict:
@@ -88,6 +134,7 @@ def translate_text(
     # 참고 사이트 : https://blog.naver.com/ansrl23/223084035195
     # Detail on supported types can be found here:
     # https://cloud.google.com/translate/docs/supported-formats
+
     response = client.translate_text(
         request={
             "parent": parent,
@@ -102,7 +149,8 @@ def translate_text(
     # Display the translation for each input text provided
     for translation in response.translations:
         print("Translated text:", end="")
-        print(translation.translated_text.replace("..", ".\n"))
+        print(translation.translated_text.replace('.', '.\n'))
+        # print("origianl text : ", text)
         # print(f"Translated text: {translation.translated_text}")
 
     return response
@@ -113,6 +161,11 @@ def translate_text(
             '{}\nFor more info on error messages, check: '
             'https://cloud.google.com/apis/design/errors'.format(
                 response.error.message))
+
+def text_slicing(text: str) -> list:
+    """Split text"""
+
+
 
 if __name__ == "__main__":
     resource = detect_text()
