@@ -1,10 +1,12 @@
 """Detects text in the file."""
 from google.cloud import vision, translate
+import openai
+from openai import OpenAI
 import io
 import os
 # import translate_v3_translate_text
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:\silver\\translate-ocr-408705-3a41838f941a.json'
+
 
 # def detect_document(path) :
 #     """Detects document features in an image."""
@@ -51,7 +53,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'C:\silver\\translate-ocr-408705-
 #     # [END vision_python_migration_document_text_detection]
 def detect_text() :
     client = vision.ImageAnnotatorClient()
-    path = 'C:\silver\example9.png'
+    path = 'C:\silver\example6.png'
 
     with io.open(path, 'rb') as image_file:
         content = image_file.read()
@@ -149,11 +151,12 @@ def translate_text(
     # Display the translation for each input text provided
     for translation in response.translations:
         print("Translated text:", end="")
-        print(translation.translated_text.replace('.', '.\n'))
+        translated = translation.translated_text
+        print(translation.translated_text)
         # print("origianl text : ", text)
         # print(f"Translated text: {translation.translated_text}")
 
-    return response
+    return translated
 
 
     if response.error.message:
@@ -162,9 +165,36 @@ def translate_text(
             'https://cloud.google.com/apis/design/errors'.format(
                 response.error.message))
 
-def text_slicing(text: str) -> list:
-    """Split text"""
+def restructuring(text):
+    texts=[{"role" : "user", "content" : ""},]
+    client = OpenAI()
+    question = "다음의 내용을 있는 문자 그대로 형식만 알아보기 쉽게 줄 띄움 좀 해줘. 번역할 필요는 없어. 내용은 다음과 같아. " + text
+    texts.append({"role" : "user", "content" : question},)
 
+    chat = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=texts
+    )
+    reply = chat.choices[0].message.content
+    texts.append({"role" : "assistant", "content" : reply})
+    print("Restructured : ", reply)
+
+    return reply
+
+def matching(original, translated) :
+    texts=[{"role" : "user", "content" : ""},]
+    client = OpenAI()
+    question = "1번 내용이 원본이고 2번 내용이 번역본이야. 한 문장씩 매칭해서 두 텍스트를 비교해서 보여줘. 예를 들어 안녕하세요 띄우고 Hello처럼 말이야. 번역본과 원본을 비교하면서 보기 쉽게 출력해줬으면 좋겠어. 1번 내용 : " + original + " 2번 내용 : " + translated + "출력할 때는 원본 : ~ 줄 띄우고 번역본 : ~ 이렇게 해줘!"
+    texts.append({"role" : "user", "content" : question})
+
+    chat = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=texts
+    )
+
+    reply = chat.choices[0].message.content
+    texts.append({"role" : "assistant", "content" : reply})
+    print("Matching : ", reply)
 
 
 if __name__ == "__main__":
@@ -172,3 +202,6 @@ if __name__ == "__main__":
     print()
     print("content : ", resource)
     response = translate_text(resource, "translate-ocr-408705")
+    print()
+    restructred = restructuring(response)
+    matching(resource, restructred)
